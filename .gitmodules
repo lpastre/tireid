@@ -1,0 +1,3 @@
+[submodule "tireid-common"]
+	path = tireid-common
+	url = https://github.com/lpastre/tireid-common.git
